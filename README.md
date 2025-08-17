@@ -8,6 +8,6 @@ El objetivo principal del proyecto fue **practicar el hook `useState`** en React
 ## 🛠️ Tecnologías utilizadas
 - ⚛️ [React](https://react.dev/) – librería para interfaces de usuario  
 - ⚡ [Vite](https://vite.dev/) – bundler ultrarrápido para desarrollo  
-- 🎨 CSS3 – estilos personalizados para el botón  
+- 🎨 [CSS3](https://www.w3schools.com/css) – estilos personalizados para el botón  
 
 ---
