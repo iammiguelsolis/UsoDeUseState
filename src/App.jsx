@@ -7,10 +7,7 @@ const users = [
     { name: "Maria", username: "maria", avatar: "https://i.pravatar.cc/150?u=maria", isFollowing: true },
     { name: "Gustavo", username: "gustavo", avatar: "https://i.pravatar.cc/150?u=gustavo", isFollowing: false },
     { name: "Sofia", username: "sofia", avatar: "https://i.pravatar.cc/150?u=sofia", isFollowing: true },
-    { name: "Luis", username: "luis", avatar: "https://i.pravatar.cc/150?u=luis", isFollowing: false },
-    { name: "Ana", username: "ana", avatar: "https://i.pravatar.cc/150?u=ana", isFollowing: true },
-    { name: "Carlos", username: "carlos", avatar: "https://i.pravatar.cc/150?u=carlos", isFollowing: false },
-    { name: "Laura", username: "laura", avatar: "https://i.pravatar.cc/150?u=laura", isFollowing: true }
+    { name: "Luis", username: "luis", avatar: "https://i.pravatar.cc/150?u=luis", isFollowing: false }
 ]
 
 export const App = () => {
