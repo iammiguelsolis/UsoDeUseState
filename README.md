@@ -1,12 +1,20 @@
-# React + Vite
+# 🚀 Proyecto: Botón de Seguir
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto simple creado con **React + Vite**, que simula el comportamiento de un botón de **"Seguir / Siguiendo"** al estilo de Twitter.  
+El objetivo principal del proyecto fue **practicar el hook `useState`** en React para manejar el estado del botón de forma dinámica.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Demo
+> Inserta aquí un GIF o imagen de cómo funciona tu botón.  
+(Ejemplo: captura de pantalla mostrando el botón de "Seguir" cambiando a "Siguiendo")
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologías utilizadas
+- ⚛️ [React](https://react.dev/) – librería para interfaces de usuario  
+- ⚡ [Vite](https://vite.dev/) – bundler ultrarrápido para desarrollo  
+- 🎨 CSS3 – estilos personalizados para el botón  
+- 🔗 [ngrok](https://ngrok.com/) – (opcional) para exponer el proyecto localmente  
+
+---
