@@ -5,12 +5,6 @@ El objetivo principal del proyecto fue **practicar el hook `useState`** en React
 
 ---
 
-## 📸 Demo
-> Inserta aquí un GIF o imagen de cómo funciona tu botón.  
-(Ejemplo: captura de pantalla mostrando el botón de "Seguir" cambiando a "Siguiendo")
-
----
-
 ## 🛠️ Tecnologías utilizadas
 - ⚛️ [React](https://react.dev/) – librería para interfaces de usuario  
 - ⚡ [Vite](https://vite.dev/) – bundler ultrarrápido para desarrollo  
